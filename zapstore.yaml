@@ -1,0 +1,31 @@
+# Zapstore publishing config — https://zapstore.dev/docs/publish
+# Published with zsp: SIGN_WITH=nsec1... ~/go/bin/zsp publish
+
+# Metadata source repository (must be public for whitelisting)
+repository: https://github.com/DestBro/mafrend-zapstore
+
+# Local release APK source
+release_source: ./app/androidApp/release/androidApp-release.apk
+
+name: Mafrend
+summary: A map-based social network where you can chat with your destination
+
+description: |
+  Mafrend is a map-based social network where you can chat with your
+  destination.
+
+  Explore places on the map, connect with people around them, and chat —
+  built on the Nostr protocol.
+
+website: https://mafrend.com
+
+tags:
+  - social
+  - maps
+  - chat
+  - nostr
+
+# Relay whitelisting: The relay verifies your identity by checking this
+# file in the public repository defined above.
+# IMPORTANT: Uncomment and set your npub/pubkey below.
+# pubkey: npub1...
