@@ -1,6 +1,9 @@
-# Mafrend Zapstore Repository
+# Mafrend Zapstore Repository (Alpha)
 
 This repository hosts the Zapstore metadata and releases for [Mafrend](https://mafrend.com).
+
+> [!IMPORTANT]
+> **Alpha Release**: Mafrend is currently in early alpha and is available **exclusively on Zapstore**.
 
 ## Purpose
 

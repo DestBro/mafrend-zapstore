@@ -7,12 +7,15 @@ repository: https://github.com/DestBro/mafrend-zapstore
 # Release source (pointing to the public GitHub release)
 release_source: https://github.com/DestBro/mafrend-zapstore/releases/download/v1.0/androidApp-release.apk
 
-name: Mafrend
-summary: A map-based social network where you can chat with your destination
+name: Mafrend (Alpha)
+summary: A map-based social network (Alpha) — exclusive to Zapstore.
 
 description: |
   Mafrend is a map-based social network where you can chat with your
   destination.
+
+  This is an early Alpha version, currently available exclusively via
+  Zapstore for testing.
 
   Explore places on the map, connect with people around them, and chat —
   built on the Nostr protocol.
