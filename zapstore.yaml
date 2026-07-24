@@ -4,8 +4,8 @@
 # Metadata source repository (must be public for whitelisting)
 repository: https://github.com/DestBro/mafrend-zapstore
 
-# Local release APK source
-release_source: ./app/androidApp/release/androidApp-release.apk
+# Release source (pointing to the public GitHub release)
+release_source: https://github.com/DestBro/mafrend-zapstore/releases/download/v1.0/androidApp-release.apk
 
 name: Mafrend
 summary: A map-based social network where you can chat with your destination
