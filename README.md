@@ -4,6 +4,7 @@ This repository hosts the Zapstore metadata and releases for [Mafrend](https://m
 
 > [!IMPORTANT]
 > **Alpha Release**: Mafrend is currently in early alpha and is available **exclusively on Zapstore**.
+> **Zapstore Link**: [Download/View on Zapstore](https://zapstore.dev/apps/com.mafrend.application)
 
 ## Purpose
 
