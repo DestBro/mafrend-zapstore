@@ -7,6 +7,9 @@ repository: https://github.com/DestBro/mafrend-zapstore
 # App Icon (will be pulled from the public repository)
 icon: icon.png
 
+# Release notes file
+release_notes: release_notes.txt
+
 # Release source: zsp will automatically find the latest APK from the repo above.
 # If you want to force a specific version, you can use a direct link here.
 # release_source: https://github.com/DestBro/mafrend-zapstore/releases/download/v1.0/androidApp-release.apk

@@ -1,0 +1,4 @@
+# Release 1.1.0-alpha
+
+- Added deep-links support for places on the map, with people in the chat or outside the app.
+- Bug fixes
